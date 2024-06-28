@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.icon{
+
+background: beige;
+
+padding: 20px 120px 100px;
+}
+.icon h1{
+
+text-align: center;
+
+margin-top: 50px;
+
+text-transform: uppercase;
+
+background-color: #8512ff;
+
+color: white;
+
+padding: 20px 0px;
+}
+
+.icon ul{
+    
+text-align: center;
+    
+margin-top: 40px;
+    
+background-color: #40bdbb;
+}
+.icon ul li i {
+    
+font-size: 50px;
+    
+margin-right: 20px;
+}
